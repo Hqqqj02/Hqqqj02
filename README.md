@@ -42,13 +42,18 @@
 
 ## Projects
 
-我正在整理项目仓库。之后这里会按方向放置代表项目：
+### Travel Planning AI Agent
 
-- Java backend practice
-- Python tools and data analysis
-- AI and computer vision experiments
-- Web basics and personal site experiments
-- Learning notes and coding exercises
+A group NLP project. We built an intelligent travel planning agent that generates personalized multi-day itineraries through natural language interaction.
+
+The system supports user requirement understanding, itinerary generation, hotel and transportation recommendations, dining suggestions, route visualization, and structured PDF/HTML output.
+
+My main contribution focused on detailed itinerary generation and output formatting, including structured travel plan outputs and PDF/HTML generation specifications.
+
+- Type: Group course project
+- Role: Itinerary generation and output formatting
+- Tech: Python, LLM-based planning, RAG, Amap/Gaode API, HTML route visualization
+- Status: Private repository, available upon request
 
 ## Beyond Code
 
