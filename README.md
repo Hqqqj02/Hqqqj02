@@ -54,6 +54,7 @@ My main contribution focused on detailed itinerary generation and output formatt
 - Role: Itinerary generation and output formatting
 - Tech: Python, LLM-based planning, RAG, Amap/Gaode API, HTML route visualization
 - Status: Private repository, available upon request
+- Repository: [Travel-planning-agent](https://github.com/Hqqqj02/Travel-planning-agent) (private; access available upon request)
 
 ## Beyond Code
 
