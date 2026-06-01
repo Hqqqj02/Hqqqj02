@@ -40,7 +40,7 @@
 - Math: probability, linear algebra, optimization
 - Tools: Git, GitHub, LabelImg
 
-## Projects
+## Projects & Research
 
 ### Travel Planning AI Agent
 
@@ -55,6 +55,17 @@ My main contribution focused on detailed itinerary generation and output formatt
 - Tech: Python, LLM-based planning, RAG, Amap/Gaode API, HTML route visualization
 - Status: Private repository, available upon request
 - Repository: [Travel-planning-agent](https://github.com/Hqqqj02/Travel-planning-agent) (private; access available upon request)
+
+### Multi-Level Fusion for Visible and SAR Image Joint Recognition
+
+A published research project on joint object recognition using visible-light and SAR imagery. The work proposed a multi-level fusion method across pixel, feature, and decision levels to improve recognition performance under information loss and detail blurring in image fusion.
+
+- Paper: 基于多级别融合的可见光和SAR图像联合识别
+- Journal: 系统工程与电子技术, 2026, 48(3)
+- DOI: [10.12305/j.issn.1001-506X.2026.03.09](https://doi.org/10.12305/j.issn.1001-506X.2026.03.09)
+- My role: second author; contributed to model experiments, data processing, result analysis, and manuscript preparation
+- Focus: visible/SAR image fusion, object recognition, deep learning
+- Note: source code and datasets are not public due to confidentiality requirements
 
 ## Beyond Code
 
