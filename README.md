@@ -15,7 +15,6 @@
 - Python 数据处理与自动化
 - AI Agent、AI 云服务与行业研究
 - 计算机视觉、目标识别与多模态图像融合
-- Git、GitHub 与项目文档规范
 
 ## Experience Highlights
 
