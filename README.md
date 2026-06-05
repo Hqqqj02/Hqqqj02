@@ -66,6 +66,16 @@ A published research project on joint object recognition using visible-light and
 - Focus: visible/SAR image fusion, object recognition, deep learning
 - Note: source code and datasets are not public due to confidentiality requirements
 
+### Data Analysis Dashboard Platform
+
+A Streamlit-based data analysis dashboard for product performance tracking, metric visualization, competitor comparison, and automated report generation. The project includes modular data loading, analytics calculation, chart rendering, and report export workflows.
+
+- Type: Personal data analytics dashboard project
+- Role: Dashboard development, data processing, visualization, report export
+- Tech: Python, Streamlit, data analysis modules, HTML report templates
+- Status: Private repository
+- Repository: [Dash](https://github.com/Hqqqj02/Dash) (private; access available upon request)
+
 ## Beyond Code
 
 我喜欢足球、唱歌、旅行和摄影。希望把技术学习做得扎实一点，也把项目页面整理得清爽一点。
